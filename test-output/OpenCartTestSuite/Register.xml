@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Register" failures="0" tests="3" time="37.455" errors="0">
+  <properties/>
+  <testcase name="RegistertoApplication" time="3.098" classname="Scripts.TC_RegisterToApp"/>
+  <testcase name="RegistertoApplication1" time="2.7" classname="Scripts.TC_RegisterToApp1"/>
+  <testcase name="RegistertoApplication2" time="2.583" classname="Scripts.TC_RegisterToApp2"/>
+</testsuite>

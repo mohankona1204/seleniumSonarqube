@@ -1,0 +1,46 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="OpenCartTestSuite">
+    <groups>
+    </groups>
+    <test name="Login">
+      <class name="Scripts.TC_LoginToApp1">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="0" started-at="2020-01-22T18:07:25Z" finished-at="2020-01-22T18:07:25Z">
+        </test-method>
+        <test-method status="PASS" signature="logintoApplication1(java.lang.String)" name="logintoApplication1" duration-ms="2523" started-at="2020-01-22T18:07:21Z" finished-at="2020-01-22T18:07:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_LoginToApp]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testSetUp()" name="testSetUp" is-config="true" duration-ms="1" started-at="2020-01-22T18:07:13Z" finished-at="2020-01-22T18:07:13Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="7441" started-at="2020-01-22T18:07:13Z" finished-at="2020-01-22T18:07:21Z">
+        </test-method>
+        <test-method status="PASS" signature="testTearDown()" name="testTearDown" is-config="true" duration-ms="1334" started-at="2020-01-22T18:07:23Z" finished-at="2020-01-22T18:07:25Z">
+        </test-method>
+      </class>
+      <class name="Scripts.TC_LoginToApp">
+        <test-method status="PASS" signature="logintoApplication(java.lang.String)" name="logintoApplication" duration-ms="2976" started-at="2020-01-22T18:07:09Z" finished-at="2020-01-22T18:07:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_LoginToApp]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testSetUp()" name="testSetUp" is-config="true" duration-ms="2" started-at="2020-01-22T18:07:01Z" finished-at="2020-01-22T18:07:01Z">
+        </test-method>
+        <test-method status="PASS" signature="testTearDown()" name="testTearDown" is-config="true" duration-ms="1054" started-at="2020-01-22T18:07:12Z" finished-at="2020-01-22T18:07:13Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="8654" started-at="2020-01-22T18:07:01Z" finished-at="2020-01-22T18:07:09Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

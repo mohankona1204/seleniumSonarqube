@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" skipfailedinvocationCounts="false" verbose="1" name="Failed suite [OpenCartTestSuite]" junit="false" parallel="false" annotations="JDK">
+  <test name="Login(failed)" junit="false" parallel="false" annotations="JDK">
+    <classes>
+      <class name="Scripts.TC_LoginToApp">
+        <methods>
+          <include name="logintoApplication"/>
+          <include name="testSetUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
